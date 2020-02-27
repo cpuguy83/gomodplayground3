@@ -7,3 +7,7 @@ func Play() string {
 func Hard() string {
 	return "play hard yo!"
 }
+
+func Strong() string {
+	return "Be strong!"
+}
