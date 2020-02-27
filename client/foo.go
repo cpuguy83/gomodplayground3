@@ -1,5 +1,5 @@
 package client
 
 func Something() string {
-	return "something"
+	return "something!"
 }
